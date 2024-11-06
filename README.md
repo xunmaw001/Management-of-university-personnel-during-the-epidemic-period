@@ -1,0 +1,2 @@
+# Management-of-university-personnel-during-the-epidemic-period
+基于Spring Boot与Vue的疫情期间高校人员管理系统，是一个专为高校设计的疫情防控与人员管理解决方案。该系统结合后端Spring Boot的高效数据处理能力和前端Vue的优质用户体验，实现了对学生、教师等校园主体的高效管理与服务。主要功能包括健康信息上报、请假审批、离校返校申请等，有效提升了校园疫情防控的精准度和效率，为高校疫情防控工作提供了坚实的技术支撑。
